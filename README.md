@@ -1,2 +1,2 @@
 # instagram-page
-Clone de web page do Instagram.
+Clone of Instagram's web page.
